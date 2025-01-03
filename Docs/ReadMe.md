@@ -5,6 +5,7 @@ This project explores how Grasshopper can be used to communicate with the Univer
 
 <img src="https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/Assets/Thumbnails/Vid_Sketching.gif" alt="Alt Text" width="650">
 
+
 ## Project
 - Perforated Panel
 - Sketching Robot
