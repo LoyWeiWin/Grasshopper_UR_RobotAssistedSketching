@@ -1,44 +1,40 @@
 # Robot-Assisted Sketching using Grasshopper
 
 ## Overview
-This project explores how Grasshopper can be used to communicate with the Universal Robots UR10 collaborative robot for various sketching tasks. The system leverages Grasshopper's parametric design capabilities and integrates advanced plugins to achieve precise control and high-quality results. The goal of this research is to offer open-source tools and comprehensive documentation.
+This project investigates how Grasshopper can facilitate communication with the Universal Robots UR10 collaborative robot to perform diverse sketching tasks on a flat planar surface. By leveraging Grasshopper's parametric design capabilities and integrating advanced plugins, the system achieves precise control and high-quality outputs. The research aims to provide open-source tools and detailed documentation for broader accessibility and adoption.
 
 <img src="https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/Assets/Thumbnails/Vid_RoboticSketching.gif" alt="Alt Text" width="650">
 
-
 ## Project
-- Perforated Panel
+- Perforated Panel Sheet
 - Sketching Robot
-- Sketching Robot (Optimised)
+- Sketching Robot (Incorporates algorithms inspired by the Traveling Salesman Problem (TSP) to determine the shortest and most efficient sketching routes,)
 
 ## Software Requirement
 - Rhino 7 or latest
-- Robot plugin
+- [Robot plugin](https://github.com/visose/Robots)
 - [Generation plugin](https://www.food4rhino.com/en/app/generation)
 - [Rooster plugin](https://www.food4rhino.com/en/app/rooster)
 
 ## Key Features
-- **Parametric Design Control**: Use Grasshopper to dynamically adjust polishing paths.
+- **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (bychanging reference image).
 - **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for industrial applications.
-- **Flexibility**: Suitable for both standard polishing and complex, angled workpieces.
 - **3D Printed End Effector**: [3D printed pen holder](https://www.printables.com/model/259360-robot-spring-loaded-sharpie-end-effector-eoat-for-) designed by [@N8THEGR8](https://www.printables.com/@N8THEGR8_239577).  
 
 ## Repository Structure
 - `GrasshopperFiles/`: Grasshopper scripts.
 - `RhinoFiles/`: Robot workcell, and end-effectors.
 - `Assets/`: Images, thumbnails and videos
-- `Docs/`: Documentation for installation, setup instructions, usage, and troubleshooting.
+- `Docs/`: Documentation for installation, and troubleshooting.
 
-For more details, see the [Wiki](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki).
+> [!TIP]
+> For more setup instrucions and usage, see the [Wiki](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki).
 
 ## Contributing
 Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/05_Contributing-Guidelines) in wiki.
 
 ## Acknowledgements
 This project was independently developed as part of my personal initiative and commitment to advancing this field.
-
-## Inspiration
-https://www.youtube.com/watch?v=FgT--6_xeFo
 
 
 ## References
