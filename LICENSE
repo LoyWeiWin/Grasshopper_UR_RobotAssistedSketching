@@ -1,46 +1,40 @@
-# Custom License for Repository Materials
+CUSTOM LICENSE FOR REPOSITORY MATERIALS
 
-## License Terms
+LICENSE TERMS
 
 This repository, including all materials within it (e.g., Grasshopper definitions, Rhino files, documentation, scripts, images, and other assets), is licensed under the following terms:
 
-### **1. Permission for Use**
+1. PERMISSION FOR USE
 
-- You are allowed to use the materials in this repository for **personal, academic, and research purposes** only.
+You are allowed to use the materials in this repository for personal, academic, and research purposes only.
 
-### **2. Attribution Requirements**
+2. ATTRIBUTION REQUIREMENTS
 
-- Proper acknowledgment and citation of the author ([Your Name]) are required in any academic or professional work derived from this repository.
-- Example citation:
-  ```plaintext
+Proper acknowledgment and citation of the author ([Your Name]) are required in any academic or professional work derived from this repository.
+Example citation:
   [Your Name], "[Repository Name]: Resources for Research and Learning," GitHub Repository, [Year].
-  ```
 
-### **3. Modification Rights**
+3. MODIFICATION RIGHTS
 
-- You are permitted to modify the materials in this repository for personal or academic purposes.
-- **Prohibition**: Password-protected clusters in Grasshopper files, or any explicitly restricted content, may not be accessed, reverse-engineered, or redistributed without prior **written consent** from the contributor.
+You are permitted to modify the materials in this repository for personal or academic purposes.
+Prohibition: Password-protected clusters in Grasshopper files, or any explicitly restricted content, may not be accessed, reverse-engineered, or redistributed without prior written consent from the contributor.
 
-### **4. Redistribution**
+4. REDISTRIBUTION
 
-- You may not redistribute any materials from this repository, whether in their original or modified form, without explicit written permission from the author.
+You may not redistribute any materials from this repository, whether in their original or modified form, without explicit written permission from the author.
 
-### **5. Commercial Use**
+5. COMMERCIAL USE
 
-- Commercial use of any materials in this repository, in whole or in part, is strictly prohibited without prior written consent from the author.
+Commercial use of any materials in this repository, in whole or in part, is strictly prohibited without prior written consent from the author.
 
-### **6. Breach of Terms**
+6. BREACH OF TERMS
 
-- Violating any terms of this license will result in the immediate revocation of the license to use this repository.
-- The author reserves the right to pursue legal remedies for any unauthorized use, distribution, or modification of restricted materials.
+Violating any terms of this license will result in the immediate revocation of the license to use this repository.
+The author reserves the right to pursue legal remedies for any unauthorized use, distribution, or modification of restricted materials.
 
----
-
-## Disclaimer
+DISCLAIMER
 
 This repository is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the repository or the use or other dealings in the repository.
 
----
-
-For inquiries, permissions, or further information, contact [loyweiwin@gmail.com].
+For inquiries, permissions, or further information, contact [Your Email Address].
 
