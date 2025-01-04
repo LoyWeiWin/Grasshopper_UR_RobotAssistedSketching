@@ -34,9 +34,11 @@ This project investigates how Grasshopper can facilitate communication with the 
 ## Contributing
 Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/05_Contributing-Guidelines) in wiki.
 
+## Code of Conduct
+This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
 ## Acknowledgements
 This project was independently developed as part of my personal initiative and commitment to advancing this field.
-
 
 ## References
 1. Liao, Shuran. (2023). The Solutions to Traveling Salesman Problem. Highlights in Science, Engineering and Technology. 47. 136-143. 10.54097/hset.v47i.8182. 
