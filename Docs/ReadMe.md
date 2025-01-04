@@ -31,6 +31,10 @@ This project investigates how Grasshopper can facilitate communication with the 
 > [!TIP]
 > For more setup instrucions and usage, see the [Wiki](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki).
 
+> [!WARNING]  
+> If you are unfamiliar with using cobots (collaborative robots), please ensure you have supervision from a qualified advisor or professional. Alternatively, simulate your intended workflow in a Grasshopper environment before working with physical machines.
+> The contributor or owner of this repository is not responsible for any physical damage, injury, or harm caused to the immediate environment or individuals due to improper usage of cobots or related tools.
+
 ## Contributing
 Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/05_Contributing-Guidelines) in wiki.
 
@@ -42,5 +46,7 @@ This project was independently developed as part of my personal initiative and c
 
 ## References
 1. Liao, Shuran. (2023). The Solutions to Traveling Salesman Problem. Highlights in Science, Engineering and Technology. 47. 136-143. 10.54097/hset.v47i.8182. 
+
+
 
 
