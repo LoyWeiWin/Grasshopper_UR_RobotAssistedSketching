@@ -5,6 +5,7 @@ This project investigates how Grasshopper can facilitate communication with the 
 
 <img src="https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/Assets/Thumbnails/Vid_RoboticSketching.gif" alt="Alt Text" width="650">
 
+
 ## Project
 - Perforated Panel Sheet
 - Sketching Robot
