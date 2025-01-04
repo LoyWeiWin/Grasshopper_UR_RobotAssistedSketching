@@ -1,0 +1,6 @@
+# Ignore files with 'adv' in the filename (case-insensitive)
+*adv*
+*ADV*
+
+# Ignore specific file types or extensions with 'adv'
+*.adv
