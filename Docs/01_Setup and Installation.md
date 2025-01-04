@@ -43,7 +43,8 @@
   - Robot Workcell
   - Extended Workcell - to host the canvas
   - [3D Printed End effector](https://www.printables.com/model/259360-robot-spring-loaded-sharpie-end-effector-eoat-for-?lang=en))
- 
-> **Notes**: Given the limited storage capacity on GitHub, high-complexity geometries such as UR's [teach pendant](https://www.universal-robots.com/download/mechanical-e-series/teach-pendant/standard-teach-pendant-e-series-step-file/) and [control box](https://www.universal-robots.com/download/mechanical-e-series/control-box/control-box-step-file-cb51-e-series/) have been omitted from the .3dm file. Be aware that incorporating complex geometries may require significant computational power, which could reduce the efficiency of your workflow.
+
+> [!NOTE]  
+> Given the limited storage capacity on GitHub, high-complexity geometries such as UR's [teach pendant](https://www.universal-robots.com/download/mechanical-e-series/teach-pendant/standard-teach-pendant-e-series-step-file/) and [control box](https://www.universal-robots.com/download/mechanical-e-series/control-box/control-box-step-file-cb51-e-series/) have been omitted from the .3dm file. Be aware that incorporating complex geometries may require significant computational power, which could reduce the efficiency of your workflow.
 
 
