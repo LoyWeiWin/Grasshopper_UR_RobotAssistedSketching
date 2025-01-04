@@ -8,7 +8,7 @@ This project investigates how Grasshopper can facilitate communication with the 
 ## Project
 - Perforated Panel Sheet
 - Sketching Robot
-- Sketching Robot (Optimised)
+- Sketching Robot (Incorporates algorithms inspired by the Traveling Salesman Problem (TSP) to determine the shortest and most efficient sketching routes,)
 
 ## Software Requirement
 - Rhino 7 or latest
@@ -17,7 +17,7 @@ This project investigates how Grasshopper can facilitate communication with the 
 - [Rooster plugin](https://www.food4rhino.com/en/app/rooster)
 
 ## Key Features
-- **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (changing reference image).
+- **Parametric Design Control**: Use Grasshopper to dynamically adjust sketching pattern (bychanging reference image).
 - **Compatibility with Universal Robot**: Seamless integration with UR collaborative robots for industrial applications.
 - **3D Printed End Effector**: [3D printed pen holder](https://www.printables.com/model/259360-robot-spring-loaded-sharpie-end-effector-eoat-for-) designed by [@N8THEGR8](https://www.printables.com/@N8THEGR8_239577).  
 
@@ -25,16 +25,16 @@ This project investigates how Grasshopper can facilitate communication with the 
 - `GrasshopperFiles/`: Grasshopper scripts.
 - `RhinoFiles/`: Robot workcell, and end-effectors.
 - `Assets/`: Images, thumbnails and videos
-- `Docs/`: Documentation for installation, setup instructions, usage, and troubleshooting.
+- `Docs/`: Documentation for installation, and troubleshooting.
 
-For more details, see the [Wiki](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki).
+> [!TIP]
+> For more setup instrucions and usage, see the [Wiki](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki).
 
 ## Contributing
 Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/05_Contributing-Guidelines) in wiki.
 
 ## Acknowledgements
 This project was independently developed as part of my personal initiative and commitment to advancing this field.
-
 
 
 ## References
