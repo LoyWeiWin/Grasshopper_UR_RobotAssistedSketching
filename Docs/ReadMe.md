@@ -33,6 +33,7 @@ This project investigates how Grasshopper can facilitate communication with the 
 
 > [!WARNING]  
 > If you are unfamiliar with using cobots (collaborative robots), please ensure you have supervision from a qualified advisor or professional. Alternatively, simulate your intended workflow in a Grasshopper environment before working with physical machines.
+
 > The contributor or owner of this repository is not responsible for any physical damage, injury, or harm caused to the immediate environment or individuals due to improper usage of cobots or related tools.
 
 ## Contributing
