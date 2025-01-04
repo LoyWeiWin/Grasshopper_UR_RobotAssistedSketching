@@ -6,7 +6,7 @@ We as members, contributors, maintainers, and users of this repository pledge to
 
 We are committed to fostering an open, welcoming, and inclusive environment.
 
----
+
 
 ## **Our Standards**
 
@@ -26,7 +26,7 @@ Examples of unacceptable behavior include:
 - Publishing private information related to contributors or users without explicit consent.
 - Misrepresentation of the project or its goals.
 
----
+
 
 ## **Scope**
 
@@ -37,7 +37,7 @@ This Code of Conduct applies to:
 
 It also applies to all project spaces and public spaces where an individual is representing the project or its community. Examples include official project forums, issue trackers, social media accounts, or academic/public presentations.
 
----
+
 
 ## **Enforcement**
 
@@ -49,7 +49,7 @@ Violations related to misuse of the repository’s content, such as unauthorized
 2. **Restriction of Access**: Temporary or permanent restrictions may be applied to prevent further violations.
 3. **Legal Action**: For severe breaches, such as unauthorized commercial use or access to protected clusters, legal action may be pursued.
 
----
+
 
 ## **Enforcement Guidelines**
 
@@ -64,7 +64,7 @@ Project maintainers will follow these guidelines when addressing breaches of thi
 ### 3. **Legal Action**
    - Pursue copyright infringement claims or other legal remedies if the violation involves unauthorized use, distribution, or modification.
 
----
+
 
 ## **Acknowledgment Requirements for Users**
 
@@ -76,7 +76,7 @@ As a user of this repository, you agree to:
 
 Failure to meet these requirements is a breach of this Code of Conduct and the licensing terms.
 
----
+
 
 ## **Attribution**
 
