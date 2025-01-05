@@ -3,7 +3,7 @@
 ## Overview
 This project investigates how Grasshopper can facilitate communication with the Universal Robots UR10 collaborative robot to perform diverse sketching tasks on a flat planar surface. By leveraging Grasshopper's parametric design capabilities and integrating advanced plugins, the system achieves precise control and high-quality outputs. The research aims to provide open-source tools and detailed documentation for broader accessibility and adoption.
 
-<img src="https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/Assets/Thumbnails/Vid_RoboticSketching.gif" alt="Alt Text" width="650">
+<img src="https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/Assets/Thumbnails/Vid_RoboticSketching.gif" alt="Alt Text" width="450">
 
 
 ## Project
