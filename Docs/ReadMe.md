@@ -35,7 +35,7 @@ This project investigates how Grasshopper can facilitate communication with the 
 Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/05_Contributing-Guidelines.md) in wiki.
 
 ## Code of Conduct
-This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 > [!WARNING]  
 > If you are unfamiliar with using cobots (collaborative robots), please ensure you have supervision from a qualified advisor or professional. Alternatively, simulate your intended workflow in a Grasshopper environment before working with physical machines.
