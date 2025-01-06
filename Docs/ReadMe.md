@@ -32,7 +32,7 @@ This project investigates how Grasshopper can facilitate communication with the 
 > For more setup instrucions and usage, see the [Wiki](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki).
 
 ## Contributing
-Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/05_Contributing-Guidelines.md) in wiki.
+Contributions to improve this workflow are welcome! Please follow the contributing guidelines in the [contributing guidelines](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/wiki/06_Contributing-Guidelines.md) in wiki.
 
 ## Code of Conduct
 This project follows the Contributor Covenant Code of Conduct. Please read our [Code of Conduct](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/CODE_OF_CONDUCT.md) before contributing.
