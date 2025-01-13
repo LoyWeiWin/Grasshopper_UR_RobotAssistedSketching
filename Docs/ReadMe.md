@@ -7,9 +7,9 @@ This project investigates how Grasshopper can facilitate communication with the 
 
 
 ## Project
-- Perforated Panel Sheet
-- Sketching Robot
-- Sketching Robot (Incorporates algorithms inspired by the Traveling Salesman Problem (TSP) to determine the shortest and most efficient sketching routes,)
+- [Perforated Panel Sheet](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/GrasshopperFiles/GH_UR_RoboticAssistedSketchingWithImageSampler.gh)
+- [Sketching Robot](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/GrasshopperFiles/GH_UR_RoboticAssistedSketchingWithRooster_Basic.gh)
+- [Sketching Robot](https://github.com/LoyWeiWin/Grasshopper_UR_RobotAssistedSketching/blob/main/GrasshopperFiles/GH_UR_RoboticAssistedSketchingWithRooster.gh) (Incorporates algorithms inspired by the Traveling Salesman Problem (TSP) to determine the shortest and most efficient sketching routes,)
 
 ## Software Requirement
 - Rhino 7 or latest
